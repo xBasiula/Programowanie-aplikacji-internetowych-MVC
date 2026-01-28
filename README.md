@@ -428,49 +428,10 @@ Edytuj plik `resources/css/app.css`:
 }
 ```
 
+  
 ---
 
-## 🚀 Dodatkowe funkcje (planowane)
 
-Możliwe rozszerzenia aplikacji:
-- 🔍 Wyszukiwanie zadań
-- 🏷️ Tagi i kategorie
-- 👥 Przypisywanie zadań do użytkowników
-- 📧 Powiadomienia email
-- 📱 Aplikacja mobilna
-- 📈 Statystyki i wykresy
-- 🔔 Przypomnienia o terminach
-
----
-
-## 📞 Wsparcie
-
-W razie problemów:
-1. Sprawdź sekcję "Rozwiązywanie problemów"
-2. Przejrzyj dokumentację Laravel: https://laravel.com/docs
-3. Sprawdź dokumentację Bootstrap: https://getbootstrap.com/docs
-
----
-
-## 📝 Changelog
-
-### Wersja 1.2 (Aktualna)
-- ✅ Dodano sortowanie według 5 kryteriów
-- ✅ Poprawiono tryb ciemny dla ramek statusów
-- ✅ Dodano wskaźniki kierunku sortowania
-- ✅ Dodano przycisk resetowania sortowania
-
-### Wersja 1.1
-- ✅ Dodano tryb ciemny
-- ✅ Dodano kolorowe ramki według statusu
-- ✅ Ulepszone ikony i wizualizacja
-
-### Wersja 1.0
-- ✅ Podstawowa funkcjonalność CRUD
-- ✅ Statusy i priorytety
-- ✅ Terminy wykonania
-
----
 
 ## 📜 Licencja
 
